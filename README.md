@@ -35,6 +35,7 @@ A simple **full-stack app** built with **Node.js (Express)** and **React.js** to
 
 ### Student List
 <img width="1879" height="864" alt="image" src="https://github.com/user-attachments/assets/f477eadf-06f4-49a4-a82d-0101f8f0da74" />
+<img width="1915" height="653" alt="image" src="https://github.com/user-attachments/assets/666b3b94-701a-430d-af8c-d1211466e555" />
 
 ### View Student
 <img width="1820" height="861" alt="image" src="https://github.com/user-attachments/assets/a8d59850-38c3-4ec7-bd74-2e0a6d6461cb" />
@@ -43,15 +44,12 @@ A simple **full-stack app** built with **Node.js (Express)** and **React.js** to
 
 ## **Installation & Run**
 
-### Backend
-```bash
+**Backend**
 cd backend
 npm install
 npm run server
 
-**### Frontend**
-```bash
-Copy code
+**Frontend**
 cd frontend
 npm install
 npm start
