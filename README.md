@@ -44,12 +44,12 @@ A simple **full-stack app** built with **Node.js (Express)** and **React.js** to
 
 ## **Installation & Run**
 
-**Backend**
+## **Backend**
 cd backend
 npm install
 npm run server
 
-**Frontend**
+## **Frontend**
 cd frontend
 npm install
 npm start
