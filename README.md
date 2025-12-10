@@ -49,7 +49,7 @@ cd backend
 npm install
 npm run server
 
-### Frontend
+**### Frontend**
 ```bash
 Copy code
 cd frontend
