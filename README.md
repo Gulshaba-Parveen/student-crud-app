@@ -42,23 +42,26 @@ A simple **full-stack app** built with **Node.js (Express)** and **React.js** to
 ---
 
 Folder Structure
-bash
-Copy code
 backend/
-├─ config/dbConfig.js
-├─ controllers/studentController.js
-├─ routes/studentRoutes.js
+├─ config/
+│ └─ dbConfig.js
+├─ controllers/
+│ └─ studentController.js
+├─ routes/
+│ └─ studentRoutes.js
 └─ index.js
 
 frontend/
-├─ src/pages/
-│  ├─ Login.jsx
-│  ├─ Landing.jsx
-│  ├─ CreateStudent.jsx
-│  ├─ StudentList.jsx
-│  └─ ViewStudent.jsx
-├─ src/components/AllRoutes.jsx
-└─ src/App.js
+├─ src/
+│ ├─ pages/
+│ │ ├─ Login.jsx
+│ │ ├─ Landing.jsx
+│ │ ├─ CreateStudent.jsx
+│ │ ├─ StudentList.jsx
+│ │ └─ ViewStudent.jsx
+│ ├─ components/
+│ │ └─ AllRoutes.jsx
+│ └─ App.js
 
 --
 
