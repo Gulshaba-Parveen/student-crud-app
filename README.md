@@ -27,41 +27,17 @@ A simple **full-stack app** built with **Node.js (Express)** and **React.js** to
 
 ### Landing Page
 <img width="1914" height="864" alt="image" src="https://github.com/user-attachments/assets/c22d5515-59c0-43dc-9631-81c54f074a2b" />
+<img width="258" height="556" alt="image" src="https://github.com/user-attachments/assets/0ac3215b-78d1-46d3-a613-37318021d4ed" />
 
 ### Create Student
 <img width="1887" height="838" alt="image" src="https://github.com/user-attachments/assets/2a5a22fd-cb6b-4833-b60a-db5911d1ceac" />
+<img width="1901" height="900" alt="image" src="https://github.com/user-attachments/assets/65bfddca-9b27-4617-9d95-3444c3c05d52" />
 
 ### Student List
 <img width="1879" height="864" alt="image" src="https://github.com/user-attachments/assets/f477eadf-06f4-49a4-a82d-0101f8f0da74" />
 
 ### View Student
 <img width="1820" height="861" alt="image" src="https://github.com/user-attachments/assets/a8d59850-38c3-4ec7-bd74-2e0a6d6461cb" />
-
-> Place actual images in `screenshots/` folder
-
----
-
-Folder Structure
-backend/
-├─ config/
-│ └─ dbConfig.js
-├─ controllers/
-│ └─ studentController.js
-├─ routes/
-│ └─ studentRoutes.js
-└─ index.js
-
-frontend/
-├─ src/
-│ ├─ pages/
-│ │ ├─ Login.jsx
-│ │ ├─ Landing.jsx
-│ │ ├─ CreateStudent.jsx
-│ │ ├─ StudentList.jsx
-│ │ └─ ViewStudent.jsx
-│ ├─ components/
-│ │ └─ AllRoutes.jsx
-│ └─ App.js
 
 --
 
